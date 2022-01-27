@@ -4,3 +4,7 @@ p {
 h1 {
     background-color: tomato;
 }
+
+img.first {
+    width: 40%;
+}
